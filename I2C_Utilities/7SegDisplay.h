@@ -1,0 +1,6 @@
+#ifndef I2CPLAYGROUND_12CUTILITIES_7SEGDISPLAY_H_
+#define I2CPLAYGROUND_12CUTILITIES_7SEGDISPLAY_H_
+
+int Change7SegAddress(int old_address, const char new_address);
+
+#endif // I2CPLAYGROUND_12CUTILITIES_7SEGDISPLAY_H_
